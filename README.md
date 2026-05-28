@@ -3,7 +3,7 @@ reads transcripts on a schedule with a synthesized voice
 
 usage: 
 
-python workout.py sampleworkout
+python workout.py sampleschedule
 
 (loads the sample workout schedule)
 
